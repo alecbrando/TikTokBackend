@@ -27,3 +27,5 @@ const data = [
     shares: "560",
   },
 ];
+
+export default data;
